@@ -11,7 +11,7 @@
 
 - 🤝 I was working on [JameNegar App](https://ibb.co/n011jVk)
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/mahsa-azizi-280639ab](www.linkedin.com/in/mahsa-azizi-280639ab)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/mahsa-azizi-280639ab](https://ca.linkedin.com/in/mahsa-azizi-280639ab)
 
 - 💬 Ask me about **Android ,Flutter**
 
