@@ -12,8 +12,8 @@
 - 🤝 I was working on [JameNegar App](https://ibb.co/n011jVk)
 
 - 💼 I contributed to the following projects:
-  - [OnionArchitecture](https://github.com/Anahita-hz/OnionArchitecture)
-  - [OnlineShop](https://github.com/Anahita-hz/OnlineShop)
+  - [OnionArchitecture](https://github.com/azizymahsa/OnionArchitecture)
+  - [OnlineShop](https://github.com/azizymahsa/OnlineShop)
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/mahsa-azizi-280639ab](https://ca.linkedin.com/in/mahsa-azizi-280639ab)
 
